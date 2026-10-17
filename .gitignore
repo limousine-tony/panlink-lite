@@ -1,0 +1,8 @@
+# 敏感文件与本地材料，永不入库
+private/
+reference/
+.workbuddy/
+
+# 本地临时文件
+*.log
+*.tmp
